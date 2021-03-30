@@ -2,7 +2,7 @@
 
 ## Visa-exempt
 
-also called landing visa, for Czech passport holders you are allowed to stay 90days, than you need to do VISA run to another country.
+also called landing visa, for Czech passport holders you are allowed to stay 90days, then you need to do VISA run to another country.
 
 To get in Taiwan on Visa-exempt you need to have proof of your outbound flight within 90days period before you board plane to Taiwan. In PRC have printed booking, in western countries just flight number and date of your outbound flight is OK.
 
