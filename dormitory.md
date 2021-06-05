@@ -16,7 +16,7 @@ It has a private bathroom.
 
 There are bunk beds with a desk and wardrobe under.
 
-Do not buy mattress in the shop under dorm 3. It survives for like 2 weeks. Bring an inflatable matt \(The area of the bunk bed is large approx. 1m by 2m\) or buy mattress in larger shops instead.
+Do not buy mattress in the shop under dorm 3. It survives for like 2 weeks. Bring an inflatable matt \(The area of the bunk bed is approx. 1m by 2m\) or buy mattress in larger shops instead.
 
 #### IKEA
 

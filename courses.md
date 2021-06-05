@@ -14,9 +14,9 @@ Each NTUST credit equals 3 credits at CTU.
 
 Exceptions:
 
-Language courses gets less credits, you can get max of 4 credits for language courses at CTU.
+Language courses get less credits, you can get maximum of 4 credits for language courses at CTU.
 
-Seminar \(I\) and \(II\), for each you can get 4 credits at CTU.
+Seminar \(I\) and \(II\), you can get 4 credits for each at CTU.
 
-Research ethics gets 2 credits at CTU.
+Research ethics gets you 2 credits at CTU.
 

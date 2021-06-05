@@ -6,9 +6,9 @@ description: 'List of things, that are cheap in Taiwan and worth bringing home.'
 
 ## Whiskey
 
-Kavalan is very good, can be considered as investment whiskey
+Kavalan is very good, can be considered an investment whiskey
 
-Best to buy in duty free shop at the airport
+Best to buy in duty free shops at the airport
 
 ## PC parts
 
@@ -16,7 +16,7 @@ GPUs and SSDs are cheaper here.
 
 Recomended to buy EVGA GPUs with international warranty
 
-Best to buy at shops close to Digital plaza, estimated price is approximately as at Alza.cz without VAT \(bez DPH\)
+Best to buy at shops close to Digital plaza, estimated price is approximately the same as at Alza.cz without VAT \(bez DPH\)
 
 You can try to bargain.
 
@@ -24,11 +24,11 @@ You can try to bargain.
 
 Taiwan has cheap bikes, especially folding bikes because they're all made here.
 
-Go buy bikes inthe winter when they sell last year's models for crazy discounts. 
+Go buy bikes in the winter when they sell last year's models for crazy discounts. 
 
 I went to buy Tern folding bike in March and the price was 50% lower than official price on their website.
 
-Make sure book plane ticket with a company that does not charge extra money for sports gear \(bike\).
+Make sure you book plane ticket with a company that does not charge extra money for sports gear \(bike\).
 
 ## Scooter
 
@@ -39,7 +39,7 @@ Owning a scooter is pretty easy if you have ARC. You need to transfer an insuran
 Be careful with speeding around radars or you get fined for 1200 NTD.  
 Police officers usually don't speak English so there's a good chance to avoid punishment in case you get caught.   
 Don't use cell phone while waiting on traffic lights.  
-Don't forget that scooters are often not allowed to turn left and you most do "hook" instead - go straight to rectangle and then continue left on next green.  
+Don't forget that scooters are often not allowed to turn left and you mostly do "hook" instead - go straight to rectangle and then continue left on next green.  
 Scooters and small bikes are not allowed to use highways, elevated roads and some lanes with yellow marks inside \(usually most left and also dedicated center lines\).
 
 {% embed url="http://tealit.com/article\_categories.php?section=transportation&article=drivers-license\#" %}
