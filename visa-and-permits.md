@@ -8,6 +8,13 @@ To get in Taiwan on Visa-exempt you need to have proof of your outbound flight w
 
 Get Record of ID number of Republic of China at the same place as ARC is issued. You need this for school, bank,... Use this number as your ARC number and ask the people who do not want to accept this number to RTFM - to read the immigration law!
 
+## Study visa
+
+To get visa for a stay over 180 days you need a resident visa for study purposes. To get them you need to apply online and bring required documents to Taipei Economic and Cultural Office in Prague (or elsewhere if that's closer for you).
+
+{% embed url="https://www.roc-taiwan.org/cz_cs/post/113.html" %}
+
+
 ## ARC
 
 ## Work permit
