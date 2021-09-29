@@ -1,7 +1,6 @@
 # Table of contents
 
 * [This is your ultimate guide for DD on NTUST](README.md)
-* [Paperwork in CZ](paperwork.md)
 * [Visa and permits](visa-and-permits.md)
 * [Courses](courses.md)
 * [Thesis advisors](thesis-advisors.md)

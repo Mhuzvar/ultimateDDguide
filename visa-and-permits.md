@@ -1,6 +1,20 @@
 # Visa and permits
 
-## Visa-exempt
+## Paperwork in CZ
+
+### Insurance
+
+No insurance is provided by school. Unless you get a huge discount from someone the cheapest insurance is provided by ISIC.
+
+{% embed url="https://insurance.aliveplatform.com/b2c/travel.html?execution=e1s1" %}
+
+### Proof of financial support
+
+Ask at international office at FEE. It's across the hall from study office. They will verify you are considered international student by KOS and generate an official proof.
+
+## Visas
+
+### Visa-exempt
 
 also called landing visa, for Czech passport holders you are allowed to stay 90days, then you need to do VISA run to another country.
 
@@ -8,7 +22,7 @@ To get in Taiwan on Visa-exempt you need to have proof of your outbound flight w
 
 Get Record of ID number of Republic of China at the same place as ARC is issued. You need this for school, bank,... Use this number as your ARC number and ask the people who do not want to accept this number to RTFM - to read the immigration law!
 
-## Study visa
+### Study visa
 
 To get visa for a stay over 180 days you need a resident visa for study purposes. To get them you need to apply online and bring required documents to Taipei Economic and Cultural Office in Prague \(or elsewhere if that's closer for you\).
 
