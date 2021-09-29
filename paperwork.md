@@ -1,6 +1,6 @@
 # Paperwork you need to finish before departure
 
-## Insurance
+### Insurance
 
 No insurance is provided by school. Unless you get a huge discount from someone the cheapest insurance is provided by ISIC.
 
