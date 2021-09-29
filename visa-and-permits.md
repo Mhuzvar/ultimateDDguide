@@ -10,16 +10,18 @@ Get Record of ID number of Republic of China at the same place as ARC is issued.
 
 ## Study visa
 
-To get visa for a stay over 180 days you need a resident visa for study purposes. To get them you need to apply online and bring required documents to Taipei Economic and Cultural Office in Prague (or elsewhere if that's closer for you).
+To get visa for a stay over 180 days you need a resident visa for study purposes. To get them you need to apply online and bring required documents to Taipei Economic and Cultural Office in Prague \(or elsewhere if that's closer for you\).
 
 {% embed url="https://www.roc-taiwan.org/cz_cs/post/113.html" %}
+
+In fall of 2021 the office was ridiculously slow. Website says visa should take two days, someone claimed a week through email. Realistically they said "a few more days" every time someone called leading to almost two weeks processing time ended by erratic speedrun after quite literary tens of phonecalls.
 
 
 ## ARC
 
 ## Work permit
 
-Difficult to get with VISA-exempt but I strongly believe it is possible to get if you go direcly to the labour office as there is no mention about this in english translation of the immigration and labour law. It might be possible that other regulation issued by ministry of labour applies.
+Difficult to get with VISA-exempt but I strongly believe it is possible to get if you go directly to the labour office as there is no mention about this in english translation of the immigration and labour law. It might be possible that other regulation issued by ministry of labour applies.
 
 With ARC, just fill the form from your employer.
 
