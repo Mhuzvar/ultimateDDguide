@@ -28,7 +28,7 @@ To get visa for a stay over 180 days you need a resident visa for study purposes
 
 {% embed url="https://www.roc-taiwan.org/cz_cs/post/113.html" %}
 
-In fall of 2021 the office was ridiculously slow. Website says visa should take two days, someone claimed a week through email. Realistically they said "a few more days" every time someone called leading to almost two weeks processing time ended by erratic speedrun after quite literary tens of phonecalls.
+In fall of 2021 the office was ridiculously slow. Website says visa should take two days, someone claimed a week through email. Realistically they said "a few more days" every time someone called leading to almost two weeks processing time ended by erratic speedrun after quite literaly tens of phonecalls.
 
 
 ## ARC
