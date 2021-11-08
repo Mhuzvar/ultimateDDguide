@@ -33,6 +33,8 @@ In fall of 2021 the office was ridiculously slow. Website says visa should take 
 
 ## ARC
 
+Fill out the form, pay the fee, wait for the card to be made.
+
 ## Work permit
 
 Difficult to get with VISA-exempt but I strongly believe it is possible to get if you go directly to the labour office as there is no mention about this in english translation of the immigration and labour law. It might be possible that other regulation issued by ministry of labour applies.
