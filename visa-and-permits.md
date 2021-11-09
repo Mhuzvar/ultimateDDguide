@@ -33,7 +33,7 @@ In fall of 2021 the office was ridiculously slow. Website says visa should take 
 
 ## ARC
 
-Fill out the form, pay the fee, wait for the card to be made.
+Fill out the form, pay the fee, wait for the card to be made. Once made, go get it at immigration office picked while filling out the form.
 
 ## Work permit
 
