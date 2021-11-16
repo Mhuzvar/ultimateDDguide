@@ -1,6 +1,6 @@
 # Meals and cooking
 
-Cooking is not possible in the old dorm.
+Cooking is not possible in dorm 2. It does seem cooking would be more expensive than eating at the cafeteria though.
 
 There is a small kitchen in female dorm but it's always crowded.
 
